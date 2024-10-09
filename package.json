@@ -21,6 +21,7 @@
     "react-time-ago": "^7.3.3",
     "sanitize-html": "^2.13.0",
     "sass": "^1.77.8",
+    "serve": "^14.2.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -48,6 +49,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "nodemon": "^3.1.4"
   }
 }
